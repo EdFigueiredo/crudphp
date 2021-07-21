@@ -1,3 +1,4 @@
+/*ESTILO CSS*/
 *{
 	margin:0;
 	padding:0;
@@ -9,9 +10,25 @@ body{
 }
 header{
 	height:120px;
+	padding:20px;
 	background-color:#262626;
+	color:#FFFFFF;
 }
 footer{
 	height:50px;
-	background-color: #a435f0
+	background-color: #a435f0;
+	padding:10px 0;
+}
+
+/*Class*/
+.container{
+	margin:0 auto;
+	width:960px;
+	
+	
+}
+/*id*/
+#conteudo{
+	padding:30px 0;
+	background-color: #eaeaea;
 }
