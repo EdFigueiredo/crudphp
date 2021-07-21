@@ -17,7 +17,7 @@ $executar = mysqli_query($conexao, $query);
 $query = "CREATE TABLE ALUNOS_CURSOS (id_aluno_curso int not null auto_increment, id_aluno int not null, id_curso int not null, primary key(id_aluno_curso))";
 $executar = mysqli_query($conexao, $query);
 #Inserindo dados na tabela 
-//$query = "INSERT INTO ALUNOS(nome_aluno, data_nascimento) VALUES ('Edson Figueiredo Elvira', '1997-02-05')";
+//$query = "INSERT INTO ALUNOS(nome_aluno, data_nascimento) VALUES ('Jose Gomes', '1952-01-03')";
 //$executar = mysqli_query($conexao, $query);
 #Inserindo dados na tabela 
 $query = "INSERT INTO CURSOS(nome_curso, carga_horaria) VALUES ('Php', '40')";
@@ -37,7 +37,7 @@ if(mysqli_query($conexao, "DELETE FROM CURSOS WHERE id_curso = 4")){
 if(mysqli_query($conexao, "UPDATE ALUNOS SET nome_aluno = 'Ed Figueiredo' WHERE id_aluno = 1")){
     echo "Atualizado!<br>";
 }
-if(mysqli_query($conexao, "UPDATE ALUNOS SET nome_aluno = 'Rafaela Moreira' WHERE id_aluno=8")){
+if(mysqli_query($conexao, "UPDATE ALUNOS SET nome_aluno = 'Maria Moreira' WHERE id_aluno=8")){
     echo "Atualizado!<br>";
 }
 
