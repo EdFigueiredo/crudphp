@@ -4,7 +4,7 @@
 <h4 align="center"> Em construção...  🚧</h4>
 <ul>
 <li>Objetivo</li>
-  <p>Ajudar Programadores iniciantes.</p>
+  <p>Cadastro de Alunos, Cursos e Notas</p>
 <li>Linguagem</li>
     <p>Php, MySQL, CSS e HTML</p>
 <li>Pré-requisitos</li>
