@@ -1,5 +1,1 @@
-<?php
-
-echo 'Olá mundo';
-
-?>
+<h1>Bem-vindo a PHP cursos</h1>

@@ -1,6 +1,4 @@
 <?php
-#Base de dados
-include('conecta.php');
 
 #Cabeçalho
 include('header.php');
