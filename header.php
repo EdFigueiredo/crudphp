@@ -8,12 +8,13 @@
 	<body>
 		<header>
 			<div class="container">
-			<img src="img/logo.png" title="Logo" alt="Logo">
-			<div id="menu"></div>
-			<a href="#">Cursos</a>
-			<a href="#">Alunos</a>
-			<a href="#">Matrículas</a>
-			</div>
+				<a href="?pagina=home"><img src="img/logo.png" title="Logo" alt="Logo"></a>
+				<div id="menu">
+					<a href="?pagina=cursos">Cursos</a>
+					<a href="?pagina=alunos">Alunos</a>
+					<a href="?pagina=matriculas">Matrículas</a>
+				</div>
+			</div>	
 		</header>
 		<div id="conteudo" class="container">
 		<!--Aqui se encontra somente até o cabeçalho da página, onde a div será fechada em footer.php-->

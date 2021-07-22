@@ -1,6 +1,6 @@
 </div>
 <footer>
 	<div class="container">
-		Rodapé
+		©2021 TESTE PHP CURSO - Direitos reservados
 	</div>
 </footer>
