@@ -8,7 +8,7 @@
 <li>Linguagem</li>
     <p>Php, MySQL, CSS e HTML</p>
 <li>Pré-requisitos</li>
-<p>Antes de começar, você vai precisar ter instalar e configurar um pacote AMP (*A*pache, *M*ySQL, *P*HP)<br>
+<p>Antes de começar, você vai precisar instalar e configurar um pacote AMP (*A*pache, *M*ySQL, *P*HP)<br>
 Com o <a href="https://www.apachefriends.org/index.html">XAMPP</a> você já tem todas as ferramentas que precisa para rodar essa aplicação.
 O arquivo SQL será disponibilizado no final do projeto para importação dos dados cadastrados para testes.
 <br>
