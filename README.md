@@ -20,6 +20,6 @@ Crie uma pasta css e guarde o arquivo estilo.css</p>
 ### Features
 
 - [ ] Cadastro de Alunos
-- [ ] Cadastro de Cursos
+- [x] Cadastro de Cursos
 - [x] Consulta de Alunos
 - [x] Consulta de Cursos
