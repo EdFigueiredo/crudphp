@@ -10,27 +10,32 @@ if(isset($_GET['pagina'])){
 else{
 	$pagina = 'home';
 }
-if($pagina == 'cursos'){
+switch($pagina){
+	case 'cursos':
 	include('cursos.php');
-}
-
-elseif($pagina == 'alunos'){
+	break;
+	
+	case 'alunos':
 	include('alunos.php');
-}
-elseif($pagina == 'inserir_curso'){
-	include('inserir_curso.php');
-}
-
-elseif($pagina == 'inserir_aluno'){
-	include('inserir_aluno.php');
-}
-elseif($pagina == 'inserir_matricula'){
-	include('inserir_matricula.php');
-}
-elseif($pagina == 'matriculas'){
+	break;
+	
+	case 'matriculas':
 	include('matriculas.php');
-}
-else{
+	break;
+	
+	case 'inserir_curso':
+	include('inserir_curso.php');
+	break;
+	
+	case 'inserir_aluno':
+	include('inserir_aluno.php');
+	break;
+	
+	case 'inserir_matricula':
+	include('inserir_matricula.php');
+	break;
+	
+	default:
 	include('home.php');
 }
 #rodapé

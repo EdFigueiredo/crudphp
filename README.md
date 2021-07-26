@@ -10,7 +10,7 @@
 <li>Pré-requisitos</li>
 <p>Antes de começar, você vai precisar ter instalar e configurar um pacote AMP (*A*pache, *M*ySQL, *P*HP)<br>
 Com o <a href="https://www.apachefriends.org/index.html">XAMPP</a> você já tem todas as ferramentas que precisa para rodar essa aplicação.
-Referente ao Banco de dados do projeto, será disponibilizado o arquivo SQL que poderá ser importado, ou seguir as instruções no aquivo indexbanco.php.
+O arquivo SQL será disponibilizado no final do projeto para importação dos dados cadastrados para testes.
 <br>
 Crie uma pasta img e guarde todas as imagens do projeto.
 <br>
@@ -19,8 +19,6 @@ Crie uma pasta css e guarde o arquivo estilo.css</p>
 
 ### Features
 
-- [x] Cadastro de Alunos
-- [x] Cadastro de Cursos
-- [x] Consulta de Alunos
-- [x] Consulta de Cursos
-- [x] Matricular Aluno em um curso
+- [ ] Cadastro de Aluno
+- [ ] Cadastro de Curso
+- [ ] Cadastro de Notas
