@@ -19,7 +19,8 @@ Crie uma pasta css e guarde o arquivo estilo.css</p>
 
 ### Features
 
-- [ ] Cadastro de Alunos
+- [x] Cadastro de Alunos
 - [x] Cadastro de Cursos
 - [x] Consulta de Alunos
 - [x] Consulta de Cursos
+- [x] Matricular Aluno em um curso
