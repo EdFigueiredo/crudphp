@@ -1,8 +1,10 @@
 <?php
+include ('conecta.php');
 $nome_curso = $_POST['nome_curso'];
 $carga_horaria = $_POST['carga_horaria'];
+$query = "INSERT INTO CURSOS(nome_curso, carga_horaria) VALUES ('$nome_curso', $carga_horaria)";
 
-echo $nome_curso;
-echo $carga_horaria;
+mysqli_query($conexao, $query);
+
+header('location:index.php?pagina=cursos');
 ?>
-<a href="?pagina=inserir_curso">Inserir novo curso</a>
