@@ -3,6 +3,8 @@
 	<head>
 		<title>CRUD PHP</title>
 		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="//cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
 		<link rel="stylesheet" href="css/estilo.css">
 	</head>
 	<body>

@@ -1,4 +1,3 @@
-
 <h1 align="center">CRUD PHP</h1>
 <p align="center">Projeto simples usando PHP e MySQL com o intuito de ajudar programadores iniciantes.</p>
 <h4 align="center"> Em construção...  🚧</h4>

@@ -1,9 +1,8 @@
 <h1>Inserir nova matrícula</h1>	
-
 	<form method="post" action="processa_matricula.php">
 		</br>
-		<p>Selecione o Aluno</p>
-		<select name="escolha_aluno">
+		<p class="badge bg-light text-dark">Selecione o Aluno</p>
+		<select class="form-select" name="escolha_aluno">
 			<option>Selecione um aluno</option>
 			<?php
 				include ('conecta.php');
@@ -13,8 +12,8 @@
 			?>
 		</select>
 		</br></br>
-		<p>Selecione o Curso</p>
-		<select name="escolha_curso">
+		<p class="badge bg-light text-dark">Selecione o Curso</p>
+		<select class="form-select" name="escolha_curso">
 			<option>Selecione um curso</option>
 			<?php
 				include ('conecta.php');
@@ -24,5 +23,5 @@
 			?>
 		</select>
 		</br></br>
-		<input type="submit" value="Matricular aluno no curso">
+		<input class="btn btn-primary" type="submit" value="Matricular aluno no curso">
 	</form>
