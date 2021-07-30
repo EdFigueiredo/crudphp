@@ -1,10 +1,10 @@
 <h1 align="center">CRUD PHP</h1>
 <p align="center">Projeto simples usando PHP e MySQL com o intuito de ajudar programadores iniciantes.</p>
 <h4 align="center"> Em construção...  🚧</h4>
-<p align="center"><img src="./src/img/index.png" title="Pagina Inicial"></p>
-<p align="center"><img src="./src/img/cursos.png" title="Cursos"></p>
-<p align="center"><img src="./src/img/alunos.png" title="Alunos"></p>
-<p align="center"><img src="./src/img/matriculas.png" title="Matriculas"></p>
+<p align="center"><img src="./src/index.png" title="Pagina Inicial"></p>
+<p align="center"><img src="./src/cursos.png" title="Cursos"></p>
+<p align="center"><img src="./src/alunos.png" title="Alunos"></p>
+<p align="center"><img src="./src/matriculas.png" title="Matriculas"></p>
 
 <ul>
 <li>Objetivo</li>
