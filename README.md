@@ -3,17 +3,16 @@
 <h4 align="center"> Em construção...  🚧</h4>
 <table>
 	<tr>
-		<td>
-			<p align="center"><img src="./src/index.png" title="Pagina Inicial" height="150" width="300"></p>
-		</td>	
-		<td>	
-			<p align="center"><img src="./src/cursos.PNG" title="Cursos"></p>
-		</td>	
-			<p align="center"><img src="./src/alunos.PNG" title="Alunos"></p>
-		</td>
-		<td>	
+		<p align="center"><img src="./src/index.png" title="Pagina Inicial" height="150" width="300"></p>
+	</tr>
+	<tr>	
+		<p align="center"><img src="./src/cursos.PNG" title="Cursos"></p>
+	</tr>	
+	<tr>	
+		<p align="center"><img src="./src/alunos.PNG" title="Alunos"></p>
+	</tr>
+	<tr>	
 			<p align="center"><img src="./src/matriculas.PNG" title="Matriculas"></p>
-		</td>
 	</tr>
 </table>
 <ul>
