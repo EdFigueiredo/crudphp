@@ -11,7 +11,7 @@
 <p>Antes de começar, você vai precisar instalar e configurar um pacote AMP (*A*pache, *M*ySQL, *P*HP)<br>
 Com o <a href="https://www.apachefriends.org/index.html">XAMPP</a> você já tem todas as ferramentas que precisa para rodar essa aplicação.
 <br>
-O arquivo SQL precisa ser importado no PhpMyadmin do localhost instalado na máquina ou basta executar o passo a passo do arquivo (indexBanco.php)
+O arquivo SQL precisa ser importado no PhpMyadmin do localhost instalado na máquina ou basta executar o passo a passo do arquivo <b>indexBanco.php</b>
 <br>
 Extrair as pastas img, js e css localizadas no arquivo <b>Projeto.zip</b></p>  
 </ul>
