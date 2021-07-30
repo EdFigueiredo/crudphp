@@ -24,4 +24,6 @@ Crie uma pasta css e guarde o arquivo estilo.css</p>
 - [x] Matricular Aluno em um curso
 - [x] Deletar Aluno
 - [x] Deletar Curso
-- [x] Remover Aluno matriculado
+- [x] Remover Aluno de algum curso
+- [x] Editar Aluno
+- [x] Editar Curso
