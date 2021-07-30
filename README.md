@@ -28,13 +28,13 @@ Extrair as pastas img, js e css localizadas no arquivo <b>Projeto.zip</b></p>
 - [x] Editar 
 
 # Telas
-<p align="center"><img src="./src/index.png" title="Pagina Inicial" width="500" height="300"></p>
-<p align="center"><img src="./src/cursos.png" title="Cursos" width="500" height="300"></p>
-<p align="center"><img src="./src/inserir_curso.png" title="Inserir Cursos" width="500" height="300"></p>
-<p align="center"><img src="./src/alunos.png" title="Alunos" width="500" height="300"></p>
-<p align="center"><img src="./src/inserir_aluno.png" title="Inserir Alunos" width="500" height="300"></p>
-<p align="center"><img src="./src/matrículas.png" title="Matrículas" width="500" height="300"></p>
-<p align="center"><img src="./src/inserir_matricula.png" title="Inserir Matrículas" width="500" height="300"></p>
+<p align="center"><img src="./src/index.png" title="Pagina Inicial" ></p>
+<p align="center"><img src="./src/cursos.png" title="Cursos" ></p>
+<p align="center"><img src="./src/inserir_curso.png" title="Inserir Cursos" ></p>
+<p align="center"><img src="./src/alunos.png" title="Alunos" ></p>
+<p align="center"><img src="./src/inserir_aluno.png" title="Inserir Alunos" ></p>
+<p align="center"><img src="./src/matrículas.png" title="Matrículas" ></p>
+<p align="center"><img src="./src/inserir_matricula.png" title="Inserir Matrículas" ></p>
 
 
 
