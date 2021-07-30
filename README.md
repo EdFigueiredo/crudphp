@@ -39,5 +39,5 @@ Extrair as pastas img, js e css localizadas no arquivo <b>Projeto.zip</b></p>
 
 
 
-!--Bottom session-->
+<!--Bottom session-->
 <br><h4 align=center>Made with by <a target="_blank" href="https://github.com/edfigueiredo" >Edson Figueiredo</a></h4>
