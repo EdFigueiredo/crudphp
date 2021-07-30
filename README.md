@@ -25,4 +25,19 @@ Extrair as pastas img, js e css localizadas no arquivo <b>Projeto.zip</b></p>
 - [x] Deletar Curso
 - [x] Remover Aluno de algum curso
 - [x] Editar Aluno
-- [x] Editar Curso
+- [x] Editar 
+
+# Telas
+<p align="center"><img src="./src/index.png" title="Pagina Inicial" width="300" height="300"></p>
+<p align="center"><img src="./src/cursos.png" title="Cursos" width="300" height="300"></p>
+<p align="center"><img src="./src/inserir_curso.png" title="Inserir Cursos" width="300" height="300"></p>
+<p align="center"><img src="./src/alunos.png" title="Alunos" width="300" height="300"></p>
+<p align="center"><img src="./src/inserir_aluno.png" title="Inserir Alunos" width="300" height="300"></p>
+<p align="center"><img src="./src/matrículas.png" title="Matrículas" width="300" height="300"></p>
+<p align="center"><img src="./src/inserir_matricula.png" title="Inserir Matrículas" width="300" height="300"></p>
+
+
+
+
+!--Bottom session-->
+<br><h4 align=center>Made with by <a target="_blank" href="https://github.com/edfigueiredo" >Edson Figueiredo</a></h4>
