@@ -1,11 +1,19 @@
 <?php
+#iniciar sessão
+session_start();
 
 #Cabeçalho
 include('header.php');
 
 #conteúdo da página
-if(isset($_GET['pagina'])){
-	$pagina = $_GET['pagina'];
+
+if(isset($_SESSION['login'])){
+	if(isset($_GET['pagina'])){
+		$pagina = $_GET['pagina'];
+	}
+	else{
+		$pagina = 'cursos';
+	}
 }
 else{
 	$pagina = 'home';

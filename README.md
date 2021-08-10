@@ -17,15 +17,16 @@ Extrair as pastas img, js e css localizadas no arquivo <b>Projeto.zip</b></p>
 </ul>
 
 ### Funcionalidades do Projeto
-
+- [x] Usuário e senha
+- [x] Criptografia de senha contra SQL INJECTION
 - [x] Cadastro de Aluno
 - [x] Cadastro de Curso
 - [x] Matricular Aluno em um curso
 - [x] Deletar Aluno
 - [x] Deletar Curso
-- [x] Remover Aluno de algum curso
+- [x] Remover matrícula de algum curso
 - [x] Editar Aluno
-- [x] Editar 
+- [x] Editar Curso
 
 # Telas
 <p align="center"><img src="./src/index.png" title="Pagina Inicial" ></p>
@@ -33,7 +34,6 @@ Extrair as pastas img, js e css localizadas no arquivo <b>Projeto.zip</b></p>
 <p align="center"><img src="./src/inserir_curso.png" title="Inserir Cursos" ></p>
 <p align="center"><img src="./src/alunos.png" title="Alunos" ></p>
 <p align="center"><img src="./src/inserir_aluno.png" title="Inserir Alunos" ></p>
-<p align="center"><img src="./src/matrículas.png" title="Matrículas" ></p>
 <p align="center"><img src="./src/inserir_matricula.png" title="Inserir Matrículas" ></p>
 
 
